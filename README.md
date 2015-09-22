@@ -6,7 +6,9 @@ postgresql-9.4.4-3
 
 2.	Funções de Banco
 2.2.	 Criar banco de dados no postgresql
+
 •	Nome: senhas
+
 •	Owner: postgres
 
 -- Database: senhas
@@ -22,8 +24,11 @@ CREATE DATABASE senhas
        CONNECTION LIMIT = -1;
 
 3.	Usuário
+
 •	User: gerente
+
 •	Senha: 123
+
 -- Role: gerente
 
 -- DROP ROLE gerente;
