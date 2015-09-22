@@ -20,6 +20,7 @@ CREATE DATABASE senhas
        LC_COLLATE = 'Portuguese_Brazil.1252'
        LC_CTYPE = 'Portuguese_Brazil.1252'
        CONNECTION LIMIT = -1;
+
 3.	Usuário
 •	User: gerente
 •	Senha: 123
